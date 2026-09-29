@@ -10,5 +10,4 @@ Repositorio Inicial del Proyecto
 
 # Prueba colaborativa izan-lucas realizada
 
-Conflicto Marq-Izan
-
+# Pruebas de colaboración izan-Marco - Proyecto del Equipo Alfa
