@@ -1,2 +1,2 @@
 # proyecto-colaborativo
-Repositorio Inicial del Proyecto
+Proyecto del equipo Alfa
