@@ -1,5 +1,7 @@
 HEAD
 
+Modifica B desde ordenador
+
 Proyecto del equipo Alfa - Marta -jj
 
 # proyecto-colaborativo
