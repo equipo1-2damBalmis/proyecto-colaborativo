@@ -1,5 +1,11 @@
 HEAD
 
+
+
+Editando la primera linea para probar hacer el conflicto desde mi ordenador
+
+
+
 Proyecto del equipo Alfa - Marta -jj
 
 # proyecto-colaborativo
