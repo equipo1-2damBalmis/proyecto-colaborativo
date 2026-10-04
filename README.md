@@ -1,5 +1,7 @@
 HEAD
 
+Editando la primera linea para probar hacer el conflicto
+
 Proyecto del equipo Alfa - Marta -jj
 
 # proyecto-colaborativo
