@@ -1,5 +1,7 @@
 HEAD
 
+Modificación como persona A desde Github
+
 Proyecto del equipo Alfa - Marta -jj
 
 # proyecto-colaborativo
