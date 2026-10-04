@@ -1,6 +1,7 @@
 HEAD
 
 Modifica B desde ordenador
+Modificación como persona A desde Github
 
 Proyecto del equipo Alfa - Marta -jj
 
