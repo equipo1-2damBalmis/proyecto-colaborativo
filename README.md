@@ -1,4 +1,4 @@
-HEAD
+git HEAD
 
 Modifica B desde ordenador
 Modificación como persona A desde Github
