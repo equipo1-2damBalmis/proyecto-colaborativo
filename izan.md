@@ -2,6 +2,4 @@
 Y este es el fichero***
 
 ***Hola***
-***Adios***
-***Me encantan jugar videojuegos y leer***
-
+***Me gusta jugar a los videjuegos y leer***
